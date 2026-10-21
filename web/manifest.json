@@ -1,11 +1,11 @@
 {
-    "name": "english_deutch_ruskiy",
-    "short_name": "english_deutch_ruskiy",
+    "name": "Lernen",
+    "short_name": "Lernen",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Lernen — учить английский, немецкий и русский: слова, глаголы, времена.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
